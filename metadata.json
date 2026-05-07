@@ -1,0 +1,12 @@
+{
+  "name": "Orbit Sports",
+  "description": "Una tienda deportiva de alto rendimiento con catálogo de productos, carrito de compras y diseño vanguardista.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "E-commerce",
+    "Product Catalog",
+    "Shopping Cart"
+  ]
+}
